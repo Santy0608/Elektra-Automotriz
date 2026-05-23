@@ -90,6 +90,14 @@ The solution consists of two interconnected applications sharing the same Spring
 
 ---
 
+## 📸 Screenshots
+
+### ERP
+
+
+### E-commerce
+
+
 ## 🧪 Testing
 
 - Unit tests written with **JUnit** and **Mockito** covering core business logic.
