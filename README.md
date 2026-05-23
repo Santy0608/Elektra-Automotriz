@@ -73,7 +73,7 @@ The solution consists of two interconnected applications sharing the same Spring
 
 **Catalog Page**
 - Same vehicle compatibility filter available on the catalog.
-- **AI-powered semantic search** — allows customers to find exact parts using natural language. Built with LLM-based entity extraction, prompt engineering, and token caching for cost control.
+- **AI-powered natural language search** — allows customers to find exact parts using natural language. Built with LLM-based entity extraction, prompt engineering, and token caching for cost control.
 - AI API integrated directly in Next.js server-side routes — never exposed to the client.
 
 **Shopping Cart & Checkout**
