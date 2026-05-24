@@ -148,5 +148,4 @@ The source code for this project is private due to client confidentiality.
 - **DevOps:** Docker, Digital Ocean, Vercel, Git, GitHub
 - **Storage:** Cloudinary
 - **PDF Generation:** iTextPDF
-- **Testing:** JUnit, Mockito
-- **Other:** WhatsApp API integration, Electronic Invoicing (Hacienda CR)
+- **Other:** WhatsApp API integration, PDF Invoicing
