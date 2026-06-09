@@ -131,7 +131,8 @@ The source code for this project is private due to client confidentiality.
 
 > Normalized relational MySQL database (3NF) with composite table for auto parts compatibility.
 
-<img width="1708" height="1821" alt="Diagrama DER Elektra" src="https://github.com/user-attachments/assets/5d6f5c04-bb5e-4591-9e4a-c75c442b32d2" />
+<img width="1708" height="1821" alt="Diagrama DER Elektra drawio" src="https://github.com/user-attachments/assets/faf3c811-3f20-4e92-b241-b264045e2280" />
+
 
 ---
 
