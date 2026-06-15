@@ -90,6 +90,21 @@ The solution consists of two interconnected applications sharing the same Spring
 
 ---
 
+## 🔒 Repository Notice
+
+The source code for this project is private due to client confidentiality.
+
+**Available upon request:**
+- Architecture overview
+- Database schema (ERD)
+- Code walkthrough session
+
+📹 **ERP Demo** — *(coming soon)*
+
+📹 **E-commerce + AI Search Demo** — *(coming soon)*
+
+---
+
 ## 📸 Screenshots
 
 ### ERP
@@ -117,6 +132,24 @@ The solution consists of two interconnected applications sharing the same Spring
 
 ### E-commerce
 
+**Homepage**
+<img width="1877" height="911" alt="Ecommerce Homepage" src="https://github.com/user-attachments/assets/3025fae3-e27e-452d-a6f3-c03701c35a6b" />
+
+**AI Natural Language Search**
+<img width="1882" height="912" alt="Ecommerce Homepage IA" src="https://github.com/user-attachments/assets/6f7ab0a3-ed83-432f-b2d0-b0321d75af1c" />
+
+**Auto Parts Catalog with Vehicule Compatibility Filter**
+<img width="1876" height="917" alt="Ecommerce Catalogo" src="https://github.com/user-attachments/assets/14f77bfe-894f-49c7-a648-fdf13e04f903" />
+
+**Product Details**
+<img width="1887" height="906" alt="Ecommerce Product Detail" src="https://github.com/user-attachments/assets/99427c53-6984-4427-8077-aa8e9cf5dd5f" />
+
+**Shopping Cart**
+<img width="1882" height="912" alt="Carrito de Compras Ecommerce" src="https://github.com/user-attachments/assets/0ff84d57-e206-4b2f-8742-7c08ee56744d" />
+
+**Shopping Cart**
+<img width="522" height="402" alt="Ecommerce Cotizacion" src="https://github.com/user-attachments/assets/489a5612-f9f4-47fa-8fc2-d3baf17f99b1" />
+
 
 ---
 
@@ -127,23 +160,6 @@ The solution consists of two interconnected applications sharing the same Spring
 | Spring Boot Backend | Docker + Digital Ocean |
 | Next.js E-commerce | Vercel |
 | Image Storage | Cloudinary |
-
----
-
-## 🔒 Repository Notice
-
-The source code for this project is private due to client confidentiality.
-
-**Available upon request:**
-- Architecture overview
-- Database schema (ERD)
-- Code walkthrough session
-
-📹 **ERP Demo** — *(coming soon)*
-
-📹 **E-commerce + AI Search Demo** — *(coming soon)*
-
-🌐 **Live E-commerce:** *(URL here)*
 
 ---
 
