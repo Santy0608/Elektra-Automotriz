@@ -94,6 +94,14 @@ The solution consists of two interconnected applications sharing the same Spring
 
 ### ERP
 
+**Dashboard**
+<img width="1877" height="911" alt="Dashboard ERP" src="https://github.com/user-attachments/assets/399c5c1e-7124-4209-a5c6-c6f9208381da" />
+
+**Auto Parts Compatibility Module**
+<img width="1901" height="912" alt="Compatibilidad Modulo Repuestos" src="https://github.com/user-attachments/assets/76bea43a-92f1-4dde-b884-b74e722cd52a" />
+
+**Sales Form**
+
 
 ### E-commerce
 
