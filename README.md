@@ -101,7 +101,19 @@ The solution consists of two interconnected applications sharing the same Spring
 <img width="1901" height="912" alt="Compatibilidad Modulo Repuestos" src="https://github.com/user-attachments/assets/76bea43a-92f1-4dde-b884-b74e722cd52a" />
 
 **Sales Form**
+<img width="1912" height="907" alt="Registrar Venta" src="https://github.com/user-attachments/assets/1fb6a83b-cc44-4d31-8a71-6ad11e296d13" />
 
+**Invoice PDF**
+<img width="996" height="852" alt="Factura PDF" src="https://github.com/user-attachments/assets/6ad12bba-396f-4432-a1be-96aaf5678f56" />
+
+**Quotation PDF**
+<img width="990" height="852" alt="Cotizacion PDF" src="https://github.com/user-attachments/assets/11d04700-c216-4d61-bc5a-b01d18d32977" />
+
+**Quotation Details**
+<img width="1906" height="907" alt="Resumen Cotización" src="https://github.com/user-attachments/assets/28dd0019-ce93-4dfa-bcb3-aedf87c906e6" />
+
+**Login**
+<img width="1897" height="907" alt="Login ERP" src="https://github.com/user-attachments/assets/327c3777-4475-4ebc-8cb8-310b5a171dd1" />
 
 ### E-commerce
 
