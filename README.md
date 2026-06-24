@@ -16,7 +16,6 @@ The solution consists of two interconnected applications sharing the same Spring
 | E-commerce (Storefront) | Next.js + Spring Boot + MySQL |
 | AI Search | Anthropic API + Prompt Engineering + Token Caching |
 | Infrastructure | Docker + Digital Ocean + Vercel + Cloudinary |
-| Testing | JUnit + Mockito |
 | Security | Spring Security + JWT + Role-based access control |
 
 ---
