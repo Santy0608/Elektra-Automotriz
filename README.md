@@ -100,7 +100,7 @@ The source code for this project is private due to client confidentiality.
 
 📹 **ERP Demo**: https://www.youtube.com/watch?v=3XR88xcNIxw
 
-📹 **E-commerce + AI Search Demo** — *(coming soon)*
+📹 **E-commerce + AI Search Demo**: https://www.youtube.com/watch?v=sXs61Bj-4MA&feature=youtu.be
 
 ---
 
