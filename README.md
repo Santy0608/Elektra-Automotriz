@@ -22,7 +22,7 @@ The solution consists of two interconnected applications sharing the same Spring
 
 ## 🏗️ Architecture
 
-<img width="1282" height="1061" alt="Arquitectura Elektra Automotriz drawio" src="https://github.com/user-attachments/assets/1b4a93c3-da88-4ef7-a611-1cde2487ea5b" />
+<img width="1283" height="1062" alt="Arquitectura Elektra Automotriz drawio (1)" src="https://github.com/user-attachments/assets/d3c1edc4-0422-4a0a-a7bd-4da75f30c35d" />
 
 
 ## 🏗️ ERP — Back-office System (Angular + Spring Boot + MySQL)
