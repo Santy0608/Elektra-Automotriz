@@ -15,7 +15,7 @@ The solution consists of two interconnected applications sharing the same Spring
 | ERP (Back-office) | Angular + Spring Boot + MySQL |
 | E-commerce (Storefront) | Next.js + Spring Boot + MySQL |
 | AI Search | Anthropic API + Prompt Engineering + Token Caching |
-| Infrastructure | Docker + Digital Ocean + Vercel + Cloudinary |
+| Infrastructure | Docker + AWS (EC2, RDS) + Vercel + Cloudinary |
 | Security | Spring Security + JWT + Role-based access control |
 
 ---
@@ -156,7 +156,7 @@ The source code for this project is private due to client confidentiality.
 
 | Service | Platform |
 |---|---|
-| Spring Boot Backend | Docker + Digital Ocean |
+| Spring Boot Backend | Docker + AWS (EC2, RDS) |
 | Next.js E-commerce | Vercel |
 | Image Storage | Cloudinary |
 
@@ -177,7 +177,7 @@ The source code for this project is private due to client confidentiality.
 - **Frontend:** Angular, Next.js, TypeScript, Chart.js, HTML, CSS
 - **Database:** MySQL — advanced normalization, composite relational tables
 - **AI:** Anthropic API, LLM-based entity extraction, Prompt Engineering, token caching
-- **DevOps:** Docker, Digital Ocean, Vercel, Git, GitHub
+- **DevOps:** Docker, AWS (EC2, RDS), Vercel, Git, GitHub
 - **Storage:** Cloudinary
 - **PDF Generation:** iTextPDF
 - **Other:** WhatsApp API integration, PDF Invoicing
